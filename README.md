@@ -6,6 +6,8 @@ Mediante seu lançamento, foram agragadas funções de diferentes aparelhos popu
 + Web Browser 
 + Aparelho Telefônic
 
+<img src="iPhoneUML.png">
+
 Esse projeto apresentamos um diagrama UML contendo a estrutura básica dessa abstração, 
 bem como a implementação inicial desse diagrama utilizando da linguagem Java.
 
